@@ -57,7 +57,7 @@ Comparison of the 100 most affected counties with the 500 least affected out of 
 
 <br>
 <br>
-The COVID-19 COmmunity Profiler was created by Ken Sagynbekov & Brittney Butler <br> 
+The COVID-19 Community Profiler was created by Ken Sagynbekov & Brittney Butler <br> 
 For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br>  
 
 <Bh>
