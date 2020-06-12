@@ -31,7 +31,6 @@ alt="Web Analytics"></a></div></noscript>
 </head>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
-<i>Note: The Official Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>.  The current platform allows us to share on-going work while linking it to current events.</i>
 
 We leverage our technical and analytical skills, and economic thoughts to bring new perspectives to current policy discussions.<br><br>
 We believe that highlighting the interactions among health, demographic, and socio-economic factors within communities provides a broad perspective when evaluating county-level vulnerability to COVID-19. It is also the starting point for targeted policy solutions. <Br>
@@ -66,6 +65,8 @@ Links to the data sources:<br>
 <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main" target="_blank"> Centers for Medicare and Medicaid Services</a> <Br>
 <a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation" target="_blank"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps</a> <Br>
  <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/" target="_blank"> USDA </a> <Br>
+  
+  <i>Note: The Official Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>.  The current platform allows us to share on-going work while linking it to current events.</i>
   
   
 
