@@ -66,7 +66,7 @@ Links to the data sources:<br>
 <a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation" target="_blank"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps</a> <Br>
  <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/" target="_blank"> USDA </a> <Br>
   
-  <i>Note: The Official Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>.  The current platform allows us to share on-going work while linking it to current events.</i>
+  <i>Note: The Official Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>. </i>
   
   
 
