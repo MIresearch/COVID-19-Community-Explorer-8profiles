@@ -58,7 +58,7 @@ Comparison of the 100 most affected counties with the 500 least affected out of 
 <br>
 The COVID-19 Community Explorer was created by Ken Sagynbekov & Brittney Butler <br> 
 For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br>  
-<a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/June7New.xlsx" target="_blank"> Raw data </a>
+<a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/July5New.xlsx" target="_blank"> Raw data </a>
 <Bh>
 Links to the data sources:<br>
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" target="_blank">New York Times COVID-19 database</a><br>
