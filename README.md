@@ -33,7 +33,7 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
 We believe that highlighting the interactions among health, demographic, and socio-economic factors within communities provides a broad perspective when evaluating county-level vulnerability to COVID-19. It is also the starting point for targeted policy solutions. <Br>
-<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research github</b>  </a>
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
   
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
 
