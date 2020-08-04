@@ -32,7 +32,6 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-We leverage our technical and analytical skills, and economic thoughts to bring new perspectives to current policy discussions.<br><br>
 We believe that highlighting the interactions among health, demographic, and socio-economic factors within communities provides a broad perspective when evaluating county-level vulnerability to COVID-19. It is also the starting point for targeted policy solutions. <Br>
   
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
