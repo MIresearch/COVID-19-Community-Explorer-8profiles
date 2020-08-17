@@ -30,6 +30,7 @@ alt="Web Analytics"></a></div></noscript>
 <meta property="og:image" content="YOURIMAGEURLGOESHERE.JPG">
 
 <meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
 </head>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
