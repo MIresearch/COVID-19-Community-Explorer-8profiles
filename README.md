@@ -27,7 +27,9 @@ class="statcounter"
 src="https://c.statcounter.com/12336862/0/4fed8680/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
+<meta property="og:image" content="YOURIMAGEURLGOESHERE.JPG">
 
+<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
 </head>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
