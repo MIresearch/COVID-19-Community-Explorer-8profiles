@@ -29,8 +29,17 @@ alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 <meta property="og:image" content="YOURIMAGEURLGOESHERE.JPG">
 
-<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
-<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta name="twitter:title" content="COVID-19 Community Explorer">
+<meta name="twitter:description" content="The MI COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features.&nbsp;">
+<meta name="description" content="The Milken Institute COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic.">
+<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:title" content="COVID-19 Community Explorer">
+<link rel="image_src" href="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:description" content="The MI COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features.&nbsp;">
+<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg"> <meta property="og:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+
 </head>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
