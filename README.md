@@ -27,7 +27,6 @@ class="statcounter"
 src="https://c.statcounter.com/12336862/0/4fed8680/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
-<meta property="og:image" content="YOURIMAGEURLGOESHERE.JPG">
 
 <meta name="twitter:title" content="COVID-19 Community Explorer">
 <meta name="twitter:description" content="The MI COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features.">
