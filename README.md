@@ -42,17 +42,19 @@ alt="Web Analytics"></a></div></noscript>
 
 </head>
 
-<H1><b>Milken Institute Research Department </b></H1><Hr>
+<H1><b>MI Research Department on GitHub </b></H1><Hr>
 
-We believe that highlighting the interactions among health, demographic, and socio-economic factors within communities provides a broad perspective when evaluating county-level vulnerability to COVID-19. It is also the starting point for targeted policy solutions. <Br>
+<H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
+The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population.  
+  
+<Br>
   
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
-  
-<H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
+
 
   
 <H2>US Counties </H2>
-<b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in bubbles. The average values for all counties are provided in the parentheses. 
+The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in bubbles. The average values for all counties are provided in the parentheses. 
 
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="700" frameborder="0"></iframe></center>
 
