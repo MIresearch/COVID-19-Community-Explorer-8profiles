@@ -48,7 +48,7 @@ We believe that highlighting the interactions among health, demographic, and soc
   
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
   
-<H2><b> COVID-19 Community Explorer*</b> </H2> <Hr>
+<H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
 
   
 <H2>US Counties </H2>
