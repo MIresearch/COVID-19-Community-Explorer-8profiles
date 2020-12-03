@@ -45,15 +45,16 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on GitHub </b></H1><Hr>
 
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
-The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The counties are clustered into 8 profiles:
- <br> •	<b>1</b> is the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
-<br>•	<b>2</b> consists of highly educated, economically prosperous, mostly White counties in metro areas. (35% US population)
-<br>•	<b>3</b> has the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
-<br>•	<b>4</b> has the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population))
-<br>•	<b>5</b> consists of predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
-<br>•	<b>6</b> captures the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)
-<br>•	<b>7</b> represents the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
-<br>•	<b>8</b> is the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)
+The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. <br>
+  <br>The counties are clustered into 8 profiles:
+ <br> •	<b>1</b> is the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)<br>
+<br>•	<b>2</b> consists of highly educated, economically prosperous, mostly White counties in metro areas. (35% US population)<br>
+<br>•	<b>3</b> has the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)<br>
+<br>•	<b>4</b> has the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population))<br>
+<br>•	<b>5</b> consists of predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) <br>
+<br>•	<b>6</b> captures the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)<br>
+<br>•	<b>7</b> represents the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)<br>
+<br>•	<b>8</b> is the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
 
   
 <Br>
@@ -62,7 +63,7 @@ The <b>COVID-19 Community Explorer</b> is an interactive map that allows users t
 
 
   
-<H2>US Counties </H2>
+<H2>US Counties Communities </H2>
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="700" frameborder="0"></iframe></center>
 
 
