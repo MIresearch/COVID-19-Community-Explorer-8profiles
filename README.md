@@ -45,7 +45,16 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on GitHub </b></H1><Hr>
 
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
-The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population.  
+The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The counties are clustered into 8 profiles:
+  •	Profile one represents 38 percent of the US population and is the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. 
+•	Profile two represents 25 percent of the US population and consists of highly educated, economically prosperous, mostly White counties in metro areas.
+•	Profile three represents 12 percent of the US population and has the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. 
+•	Profile four represents 7 percent of the US population and has the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions
+•	Profile five represents 6 percent of the US population and consists of predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. 
+•	Profile six represents 5 percent of the US population. It captures the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.
+•	Profile seven represents 4 percent of the US population. It represents the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. 
+•	Profile eight represents 3 percent of the US population and is the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions.
+
   
 <Br>
   
