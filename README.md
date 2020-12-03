@@ -48,7 +48,7 @@ alt="Web Analytics"></a></div></noscript>
 The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. <br>
   <br>The counties are clustered into <b>8 community profiles</B>:
  <br> •	<b>1</b>, the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
-<br>•	<b>2</b>, highly educated, economically prosperous, mostly White counties in metro areas. (35% US population)<br>
+<br>•	<b>2</b>, highly educated, economically prosperous, mostly White counties in metro areas. (35% US population)
 <br>•	<b>3</b>, the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
 <br>•	<b>4</b>, the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population))
 <br>•	<b>5</b>, predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
