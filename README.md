@@ -45,7 +45,7 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on GitHub </b></H1><Hr>
 
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
-The <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. <br>
+The <b>COVID-19 Community Explorer</b> is an interactive map that provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features. <br>
   <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
  <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
 <br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
