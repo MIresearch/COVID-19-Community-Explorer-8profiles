@@ -64,7 +64,7 @@ The <b>COVID-19 Community Explorer</b> is an interactive map that provides a sim
 
   
 <H2>US Counties Communities </H2>
-<center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="700" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 
 <H2>Most Affected Communities in Terms of Population Adjusted Death Rate </H2>
