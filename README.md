@@ -67,15 +67,6 @@ The <b>COVID-19 Community Explorer</b> is an interactive map that provides a sim
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 
-<H2>Most Affected Communities in Terms of Population Adjusted Death Rate </H2>
-These 100 counties make up about 9% of the population and account for 47% of all COVID-19 deaths and 36% of all confirmed and suspected cases. Controlling for the population size allows us to compare and contrast counties based on the other dimensions (health, social, demographic, economic, etc).
-
-<center><iframe src="https://public.tableau.com/views/100AffectedCounties/Map?:retry=yes&:display_count=y&:origin=viz_share_link" width="100%" height="700" frameborder="0"></iframe></center>
-
-
-<H2>Key Health and Social Characteristics of The Most and Least Affected Counties  </H2>
-Comparison of the 100 most affected counties with the 500 least affected out of the 2844 US counties by population adjusted death rate.
-<center><iframe src="https://public.tableau.com/views/Table_15894891188610/Dashboard2?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
 
 <br>
 <br>
