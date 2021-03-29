@@ -59,7 +59,6 @@ The <b>COVID-19 Community Explorer</b> is an interactive map that provides a sim
   
 <Br>
   
-<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 
   
@@ -80,5 +79,34 @@ Links to the data sources:<br>
  <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/" target="_blank"> USDA </a> <Br>
   
   
+  <b>List of Health Conditions </b><br>
+•	Adult Obesity: Adult obesity prevalence (%)<br>
+•	Adult Smoking: Rate of smoking adults (%)<br>
+•	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)<br>
+•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older<br>
+•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older<br>
+•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
+•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) <br>
+•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking<br>
+•	Food Environment Index: Index of factors that contribute to a healthy food environment<br>
+•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food<br>
+•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month<br>
+•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month<br>
+•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
+•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
+•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older<br>
+•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store<br>
+•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity<br>
+•	Poor Mental Health Days: Average number of mentally unhealthy days (#)<br>
+•	Social Association Rate: Number of membership associations per 10,000 population<br>
+•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
+
+<H2>Related Research</H2>
+-<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer</a> <br>
+-<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
+<Br>
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
+
 
 
