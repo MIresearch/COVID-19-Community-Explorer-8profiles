@@ -78,7 +78,8 @@ Links to the data sources:<br>
 <a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation" target="_blank"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps</a> <Br>
  <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/" target="_blank"> USDA </a> <Br>
   
-  
+ <br>
+ <br>
   <b>List of Health Conditions </b><br>
 •	Adult Obesity: Adult obesity prevalence (%)<br>
 •	Adult Smoking: Rate of smoking adults (%)<br>
