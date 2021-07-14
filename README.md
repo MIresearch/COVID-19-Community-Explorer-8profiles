@@ -73,6 +73,7 @@ The <b>COVID-19 Community Explorer</b> is an interactive map that provides a sim
 <a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/MI%20COVID-19%20Community%20Explorer_July%205.xlsx" target="_blank"> Raw data </a>
 <Bh>
 Links to the data sources:<br>
+<a href="https://www.cdc.gov/" target="_blank"> CDC </a>
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" target="_blank">New York Times COVID-19 database</a><br>
 <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main" target="_blank"> Centers for Medicare and Medicaid Services</a> <Br>
 <a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation" target="_blank"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps</a> <Br>
