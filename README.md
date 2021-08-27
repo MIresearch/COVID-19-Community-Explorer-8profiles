@@ -59,13 +59,11 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
   
 <Br>
   
-You can filter the counties shown on the map by profile by using the drop-down menu to select the profile(s) for which you would like to view the counties. “Null” is the categorization for Kansas City and Joplin, MO, which do not have community profiles as they are not counties or county-equivalents. 
+You can filter the counties shown on the map by profile by using the drop-down menu to select the profile(s) for which you would like to view the counties. “Null” is the categorization for Kansas City and Joplin, MO, whose COVID-19 information is reported at the city level. 
 
   
 <H2>US Counties Communities </H2>
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
-
-https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/08272021CrudePrevalence?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 <br>
 <br>
@@ -82,7 +80,7 @@ Links to the data sources:<br>
  <br>
  <br>
   <b>List of Health Conditions </b><br>
-  The following health conditions are displayed for each county as [age-adjusted/crude] prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> 
+  The following health conditions are displayed for each county as prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> 
 •	 <b>Asthma</b> - current asthma among adults <br>
 •	 <b>Cancer</b> - cancer (excluding skin cancer) among adults <br>
 •	 <b>COPD</b> - chronic obstructive pulmonary disease among adults <br>
@@ -93,6 +91,11 @@ Links to the data sources:<br>
 •	 <b>Obesity</b> - adults with BMI ≥ 30 kg/m2 <br>
 •	 <b>Smoking</b> - current smoking among adults  <br>
 •	 <b>Stroke</b> - adults ever diagnosed with a stroke  <br>
+  
+  The dashboard allows you to filter by underlying health conditions within a county. Simply select the health condition of interest in the dropdown menu and adjust the sliders to filter counties by their prevalence of that condition. 
+
+Because minimum and maximum prevalence rates vary by condition, changing the health condition might cause it to appear as though some or even all counties have disappeared. This is usually because the maximum or minimum value of the prior health condition observed is much higher or lower than those of the currently observed condition. Adjusting the slider should cause all counties to reappear (if the maximum of the new health condition is lower than the minimum of the prior health condition, slide the minimum up and then back down). 
+
 
 <H2>Related Research</H2>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
