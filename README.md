@@ -59,7 +59,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
   
 <Br>
   
-You can filter the counties shown on the map by profile by using the drop-down. You can also select a specific underlying health conditions: select the health condition of interest in the dropdown menu and adjust the sliders to filter counties by their prevalence of that condition.
+<b>You can filter the counties shown on the map by profile by using the drop-down. You can also select a specific underlying health conditions: select the health condition of interest in the dropdown menu and adjust the sliders to filter counties by their prevalence of that condition.</b>
 
  Because minimum and maximum prevalence rates vary by condition, changing the health condition might cause it to appear as though some or even all counties have disappeared. This is usually because the maximum or minimum value of the prior health condition observed is much higher or lower than those of the currently observed condition. Adjusting the slider should cause all counties to reappear (if the maximum of the new health condition is lower than the minimum of the prior health condition, slide the minimum up and then back down). 
  “Null” is the categorization for Kansas City and Joplin, MO, whose COVID-19 information is reported at the city level. 
