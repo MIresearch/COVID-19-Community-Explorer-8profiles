@@ -80,7 +80,7 @@ Links to the data sources:<br>
  <br>
  <br>
   <b>List of Health Conditions </b><br>
-  The following health conditions are displayed for each county as prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> 
+  The following health conditions are displayed for each county as prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> <br>
 •	 <b>Asthma</b> - current asthma among adults <br>
 •	 <b>Cancer</b> - cancer (excluding skin cancer) among adults <br>
 •	 <b>COPD</b> - chronic obstructive pulmonary disease among adults <br>
