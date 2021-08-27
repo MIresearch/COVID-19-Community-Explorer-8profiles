@@ -45,7 +45,7 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on GitHub </b></H1><Hr>
 
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
-The <b>COVID-19 Community Explorer</b> is an interactive map that provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features. <br>
+The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. <br>
   <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
  <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
 <br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
@@ -59,13 +59,13 @@ The <b>COVID-19 Community Explorer</b> is an interactive map that provides a sim
   
 <Br>
   
-
+You can filter the counties shown on the map by profile by using the drop-down menu to select the profile(s) for which you would like to view the counties. “Null” is the categorization for Kansas City and Joplin, MO, which do not have community profiles as they are not counties or county-equivalents. 
 
   
 <H2>US Counties Communities </H2>
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
-
+https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/08272021CrudePrevalence?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 <br>
 <br>
@@ -82,26 +82,17 @@ Links to the data sources:<br>
  <br>
  <br>
   <b>List of Health Conditions </b><br>
-•	Adult Obesity: Adult obesity prevalence (%)<br>
-•	Adult Smoking: Rate of smoking adults (%)<br>
-•	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)<br>
-•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older<br>
-•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older<br>
-•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
-•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) <br>
-•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking<br>
-•	Food Environment Index: Index of factors that contribute to a healthy food environment<br>
-•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food<br>
-•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month<br>
-•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month<br>
-•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
-•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
-•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older<br>
-•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store<br>
-•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity<br>
-•	Poor Mental Health Days: Average number of mentally unhealthy days (#)<br>
-•	Social Association Rate: Number of membership associations per 10,000 population<br>
-•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
+  The following health conditions are displayed for each county as [age-adjusted/crude] prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> 
+•	 <b>Asthma</b> - current asthma among adults <br>
+•	 <b>Cancer</b> - cancer (excluding skin cancer) among adults <br>
+•	 <b>COPD</b> - chronic obstructive pulmonary disease among adults <br>
+•	 <b>Diabetes</b> - diagnosed diabetes among adults <br>
+•	 <b>Heart Disease</b> - coronary heart disease among adults  <br>
+•	 <b>High BP</b> - high blood pressure among adults <br>
+•	 <b>Kidney</b> - chronic kidney disease among adults <br>
+•	 <b>Obesity</b> - adults with BMI ≥ 30 kg/m2 <br>
+•	 <b>Smoking</b> - current smoking among adults  <br>
+•	 <b>Stroke</b> - adults ever diagnosed with a stroke  <br>
 
 <H2>Related Research</H2>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
