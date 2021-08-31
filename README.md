@@ -71,7 +71,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
 <br>
 <br>
   
-<a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/MI%20COVID-19%20Community%20Explorer_July%205.xlsx" target="_blank"> Raw data </a>
+
 <Bh>
 Links to the data sources:<br>
 <a href="https://www.cdc.gov/" target="_blank"> CDC </a><br>
@@ -81,6 +81,15 @@ Links to the data sources:<br>
  <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/" target="_blank"> USDA </a> <Br>
   
  <br>
+  <br>
+  <b>COVID-19 data </b><br>
+•	 Vaccine data is excluded for Georgia, Virginia, and West Virginia due to the large proportion of vaccine recipients without a verified county of residence.
+•	 Kansas City, MO and Joplin, MO report case and death data at the city level; the case/death data for the surrounding counties excludes those within these cities.
+•	 New York City reports case/death data at the city level, but vaccination rates are available at the county level for each of the five boroughs. 
+•	 Two of Alaska’s units for reporting case and death data are combinations of two smaller counties. Bristol Bay Borough reports in combination with Lake and Peninsula Borough; Yakutat City and Borough report in combination with Hoonah-Angoon Census Area. For more information: <a href="https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions" target="_blank">New York Times Geographic Exceptions</a><br>
+
+Sources: Centers for Disease Control and Prevention (CDC), Texas Department of Health, Hawaii Department of Health, New York Times Covid-19 Data (github). 
+
  <br>
   <b>List of Health Conditions </b><br>
   The following health conditions are displayed for each county as prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> <br>
