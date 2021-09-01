@@ -59,10 +59,10 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
   
 <Br>
   
-<b>By using the drop-downs, the user can :
-  -> select the COVID-19 information
-  -> filter population based on its behavioral, demographic, economic, and social profiles
-  -> select a specific underlying health conditions and adjust the sliders to filter counties by their prevalence of that condition.</b>
+<b>By using the drop-downs, the user can:<br>
+  -> select the COVID-19 information <br>
+  -> filter population based on its behavioral, demographic, economic, and social profiles <br>
+  -> select a specific underlying health conditions and adjust the sliders to filter counties by their prevalence of that condition.</b> <br>
 
  
 
