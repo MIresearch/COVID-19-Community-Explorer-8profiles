@@ -78,10 +78,11 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
 <Bh>
 Links to the data sources:<br>
 <a href="https://www.cdc.gov/" target="_blank"> CDC </a><br>
+<a href="https://www.census.gov/" target="_blank"> Census </a> <Br>
+<a href="https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/#vaccine" target="_blank"> Hawaii Department of Health</a> <Br>
+<a href="https://dshs.texas.gov/coronavirus/AdditionalData.aspx" target="_blank"> Texas Department of Health</a> <Br>
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" target="_blank">New York Times COVID-19 database</a><br>
-<a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main" target="_blank"> Centers for Medicare and Medicaid Services</a> <Br>
-<a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation" target="_blank"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps</a> <Br>
- <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/" target="_blank"> USDA </a> <Br>
+
   
  <br>
   <br>
