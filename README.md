@@ -88,7 +88,7 @@ Links to the data sources:<br>
  <br>
   <br>
   <b>COVID-19 data </b><br>
-•	 Vaccine data is excluded for Georgia, Virginia, and West Virginia due to the large proportion of vaccine recipients without a verified county of residence.<br>
+•	 Vaccine data is excluded for Georgia, Vermont, Virginia, and West Virginia due to the large proportion of vaccine recipients without a verified county of residence.<br>
 •	 Kansas City, MO and Joplin, MO report case and death data at the city level; the case/death data for the surrounding counties excludes those within these cities.<br>
 •	 New York City reports case/death data at the city level, but vaccination rates are available at the county level for each of the five boroughs. <br>
 •	 Two of Alaska’s units for reporting case and death data are combinations of two smaller counties. Bristol Bay Borough reports in combination with Lake and Peninsula Borough; Yakutat City and Borough report in combination with Hoonah-Angoon Census Area. For more information: <a href="https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions" target="_blank">New York Times Geographic Exceptions</a><br>
