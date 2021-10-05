@@ -65,8 +65,8 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
   -> select an underlying health condition and adjust the slider to filter counties by their prevalence of that condition.</b> <br>
 
  
-<H2>Summary of the Worst and Best Counties</H2><br> 
-  -><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_oct2021.pdf" target="_blank"> September 2021</a>, <a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_Sept_2021.pdf" target="_blank">August 2021</a> 
+<H2>Summary of the Best and Worst Counties</H2> 
+  -><b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_oct2021.pdf" target="_blank"> September 2021</a></b>, <b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_Sept_2021.pdf" target="_blank">August 2021</a> </b>
   
 <H2>US Counties Communities </H2>
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
