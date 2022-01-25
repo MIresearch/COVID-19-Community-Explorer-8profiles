@@ -63,7 +63,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
   -> select the COVID-19 information <br>
   -> focus on a specific population based on its behavioral, demographic, economic, and social profiles <br>
   -> select an underlying health condition and adjust the slider to filter counties by their prevalence of that condition.</b> <br>
-  **instructions on how to use the interactive map**
+ <b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/Instructions_screenshots.pdf" target="_blank">**instructions on how to use the interactive map**</a></b>
 
  
 <H2>Summary of the Best and Worst Counties</H2> 
