@@ -67,7 +67,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
 
  
 <H2>Summary of the Best and Worst Counties</H2> 
-   -><b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_jan2022.pdf" target="_blank"> December 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_dec2021.pdf" target="_blank"> November 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_Nov2021.pdf" target="_blank"> October 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_oct2021.pdf" target="_blank"> September 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_Sept_2021.pdf" target="_blank">August 2021</a> </b>
+   -> <b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_feb2022.pdf" target="_blank"> December 2021</a></b>, <b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_jan2022.pdf" target="_blank"> December 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_dec2021.pdf" target="_blank"> November 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_Nov2021.pdf" target="_blank"> October 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_oct2021.pdf" target="_blank"> September 2021</a></b>,<b><a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/BestandWorstPerformersBrief_Sept_2021.pdf" target="_blank">August 2021</a> </b>
   
 <H2>US Counties Communities </H2>
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile_16105893795010/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
@@ -79,23 +79,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
 
 <Bh>
 Links to the data sources:<br>
-<a href="https://www.cdc.gov/" target="_blank"> CDC </a><br>
-<a href="https://www.census.gov/" target="_blank"> Census </a> <Br>
-<a href="https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/#vaccine" target="_blank"> Hawaii Department of Health</a> <Br>
-<a href="https://dshs.texas.gov/coronavirus/AdditionalData.aspx" target="_blank"> Texas Department of Health</a> <Br>
-<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" target="_blank">New York Times COVID-19 database</a><br>
-
-  
- <br>
-  <br>
-  <b>COVID-19 data </b><br>
-•	 Vaccine data is excluded for Georgia, Vermont, Virginia, and West Virginia due to the large proportion of vaccine recipients without a verified county of residence.<br>
-•	 Kansas City, MO and Joplin, MO report case and death data at the city level; the case/death data for the surrounding counties excludes those within these cities.<br>
-•	 New York City reports case/death data at the city level, but vaccination rates are available at the county level for each of the five boroughs. <br>
-•	 Two of Alaska’s units for reporting case and death data are combinations of two smaller counties. Bristol Bay Borough reports in combination with Lake and Peninsula Borough; Yakutat City and Borough report in combination with Hoonah-Angoon Census Area. For more information: <a href="https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions" target="_blank">New York Times Geographic Exceptions</a><br>
-
-Sources: Centers for Disease Control and Prevention (CDC), Texas Department of Health, Hawaii Department of Health, New York Times Covid-19 Data (github).<br> 
-
+<a href="https://github.com/MIresearch/MI-COVID-19-Community-Explorer/blob/master/Data%20source20220204.pdf" target="_blank"> Links to the data sources</a><br>
  <br>
   <b>List of Health Conditions </b><br>
   The following health conditions are displayed for each county as prevalence rates, and the rates for the United States as a whole are displayed in brackets. Further information on these measures can be found  <a href="https://www.cdc.gov/places/measure-definitions/index.html" target="_blank"> here</a> <br>
