@@ -44,7 +44,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>MI Research Department on GitHub </b></H1><Hr>
 
-<H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
+<H2><b> COVID-19 Community Explorer (8 profiles based on 26 factors)</b> </H2> <Hr>
 The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. <br>
   <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
  <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
