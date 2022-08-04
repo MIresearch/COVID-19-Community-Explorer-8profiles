@@ -103,7 +103,7 @@ The <b>COVID-19 Community Explorer</b> provides a simple way to explore geograph
 -<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer  (8 profiles based on 26 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"> COVID-19 Community Explorer (17 Profiles)</a> <br>
--<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
+
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 <Br>
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
